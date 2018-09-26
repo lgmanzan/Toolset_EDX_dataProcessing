@@ -1,6 +1,6 @@
 # Toolset_EDX_dataProcessing
 
-Authors: Lorena Gonzalez and J. Maria de Fuentes
+Authors: Lorena Gonzalez-Manzano and J. Maria de Fuentes
 
 Organization: Universidad Carlos III de Madrid
 
