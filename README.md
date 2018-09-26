@@ -1,9 +1,10 @@
 # Toolset_EDX_dataProcessing
 
-This is the code of the paper "Design recommendations for online cybersecurity courses"  accepted in Computers and Security in 2018
-
 Authors: Lorena Gonzalez and J. Maria de Fuentes
+
 Organization: Universidad Carlos III de Madrid
+
+This is the code of the paper "Design recommendations for online cybersecurity courses"  accepted in Computers and Security in 2018.
 
 This code has been developed to ease the process of extracting MOOC performance data, we hereby present the proposed framework. It is presented as a Python open-source framework freely available.
 
